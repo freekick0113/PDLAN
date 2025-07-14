@@ -1,7 +1,7 @@
 # Prototypical Dual-Linear Attention Network: Enhancing Multi-Object Tracking and Segmentation with Appearance and Spatio-temporal Features
 
 
-This is the official implementation of PDLAN for MOTS. These codes are directly related to the manuscript we submitted to The Visual Computer. We encourage readers to cite the related manuscript when referencing this implementation.
+This is the official implementation of PDLAN for MOTS. 
 
 
 <div align="center">
@@ -18,7 +18,6 @@ Multi-object tracking and segmentation (MOTS) is a critical task in video analy
 <img src="figures/pdlan_framework.png" width="800">
 
 ## Main results
-#### Results on [BDD100K Benchmark](https://eval.ai/web/challenges/challenge-page/1834/leaderboard/4306)
 
 | Detector  | mMOTSA-val | mMOTSP-val | mIDF1-val | ID Sw.-val |   mAP-val  |
 | :-------: | :--------: | :-------: | :--------: | :--------: | :--------: |
